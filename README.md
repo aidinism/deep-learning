@@ -7,8 +7,8 @@
 <br/><br/>
 
 <div align="center">
-    <a href="">
-        <img src="https://sdtimes.com/wp-content/uploads/2022/12/Pytorch.png" width=750 alt="pytorch deep learning">
+    <a href="https://github.com/aidinism/deep-learning">
+        <img src="https://raw.githubusercontent.com/aidinism/deep-learning/main/images/pytorch.png" width=750 alt="pytorch deep learning">
     </a>
 </div>
 
@@ -16,11 +16,11 @@
 
 ## محتوای دوره
 
-[1- درسها و ویدیوها](https://github.com/aidinism/deep-learning#course-materialsoutline)
+[1- درسها و ویدیوها](https://github.com/aidinism/deep-learning#1--%D8%AF%D8%B1%D8%B3%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%D9%87%D8%A7--%EF%B8%8F)
 
-[2- درباره این دوره](https://github.com/aidinism/deep-learning#about-this-course)
+[2- درباره این دوره](https://github.com/aidinism/deep-learning#2--%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C%D9%86-%D8%AF%D9%88%D8%B1%D9%87)
 
-[3- بروزرسانی ها](https://github.com/aidinism/deep-learning#log)
+[3- بروزرسانی ها](https://github.com/aidinism/deep-learning#3--%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D9%87%D8%A7)
 
 <br/>
 
