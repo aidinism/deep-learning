@@ -39,7 +39,9 @@
 
 | **قسمت** | **محتوا** | **ویدیو** | **کتاب** |
 | --- | --- | --- | --- |
-| [00 - PyTorch مبانی اولیه]() | مبانی اولیه پای‌تورچ ، یادگیری ماشین و شبکه های عصبی | [ویدیو در یوتیوب]() | [لینک کتاب]() |
+| [00 - Deep Learning مبانی ]() | مبانی اولیه PyTorch / یادگیری ماشین/ شبکه های عصبی | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=5ohQQtpzhrM&list=PLF7LEiFs58lo0npB0kGWy41iv0D8ZME3m&ab_channel=Aidinism) | [لینک کتاب]() |
+| [01 - PyTorch نصب]() | نصب و راه اندازی PyTorch | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=AjF-otsoiAY&list=PLF7LEiFs58lo0npB0kGWy41iv0D8ZME3m&index=2&ab_channel=Aidinism) | [لینک کتاب]() |
+
 
 <br/><br/><br/>
 
@@ -110,11 +112,14 @@
 >- Youtube: [@AidinEslami](https://www.youtube.com/@AidinEslami)
 
 <br/><br/><br/>
+<br/><br/><br/>
 
 ---
 
-<br/>
+<br/><br/><br/>
 
 ## 3- بروزرسانی ها
 
+- 27 Feb 2023 - 🎥 Episode 01 released
+- 23 Feb 2023 - 🎥 Episode 00 released
 - 20 Feb 2023 - 🔥 init repo, add fundamentals
