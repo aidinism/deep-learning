@@ -39,8 +39,13 @@
 
 | **قسمت** | **محتوا** | **ویدیو** | **کتاب** |
 | --- | --- | --- | --- |
-| [00 - Deep Learning مبانی ]() | مبانی اولیه PyTorch / یادگیری ماشین/ شبکه های عصبی | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=5ohQQtpzhrM&list=PLF7LEiFs58lo0npB0kGWy41iv0D8ZME3m&ab_channel=Aidinism) | [لینک کتاب]() |
-| [01 - PyTorch نصب]() | نصب و راه اندازی PyTorch | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=AjF-otsoiAY&list=PLF7LEiFs58lo0npB0kGWy41iv0D8ZME3m&index=2&ab_channel=Aidinism) | [لینک کتاب]() |
+| [00 - مبانی هوش مصنوعی](00%20-%20مقدمات%20Deep%20Learning%20و%20PyTorch.pdf) | مبانی اولیه یادگیری ماشین/ شبکه های عصبی | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=5ohQQtpzhrM) | [لینک کتاب]() |
+| [01 - نصب PyTorch](01%20-%20نصب%20PyTorch.ipynb) | نصب و راه اندازی پای تورچ | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=AjF-otsoiAY) | [لینک کتاب]() |
+| [02 - مبانی PyTorch & Tensor](02%20-%20مبانی%20PyTorch%20%26%20Tensor.ipynb) | مبانی PyTorch & Tensor | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=8wb1jwwbaHU) | [لینک کتاب]() |
+| [03 - محاسبات در تنسور ها](03%20-%20محاسبات%20در%20تنسور%20ها.ipynb) | محاسبات در تنسور ها | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=oBGmU3Rktso) | [لینک کتاب]() |
+| [04 - تغییر در تنسور ها](04%20-%20توابع%20تجمیعی%20aggregation.ipynb) | تغییر در تنسور ها | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=Q74J4_JwaBg) | [لینک کتاب]() |
+| [05 - مبانی PyTorch & Tensor](05%20-%20PyTorch%20%26%20NumPy.ipynb) | مبانی PyTorch & Tensor | [ویدیو در یوتیوب](https://www.youtube.com/watch?v=8wb1jwwbaHU) | [لینک کتاب]() |
+
 
 
 <br/><br/><br/>
